@@ -1,25 +1,25 @@
-# xAI Chinese AI Tutor Application Templates
+# xAI 中文 AI Tutor 申请模板
 
-Reusable templates for applying to Chinese AI Tutor, Chinese audio annotation, transcription, language quality evaluation, and multilingual AI training roles.
+这是一套给中文 AI Tutor、中文语音标注、转写、语言质量评估、多语言 AI 训练岗位准备的申请材料模板。
 
-This repository includes:
+它包含：
 
-- English resume template
-- Audio portfolio template
-- Recording guide
-- Transcript and annotated transcript structure
-- Google Drive audio-link workaround for job boards that only accept document uploads
+- 英文简历模板
+- 录音作品集模板
+- 录音指南
+- 普通转写 / 标注转写结构
+- 当招聘系统不支持上传音频时，用 Google Drive 链接 + PDF/TXT 作品集绕开的做法
 
-## Templates
+## 模板文件
 
-| File | Use |
+| 文件 | 用途 |
 | --- | --- |
-| `templates/英文简历模板-AI-Tutor-Chinese.md` | Build a one-page English resume for Chinese AI Tutor / audio annotation roles |
-| `templates/录音作品集模板-Audio-Portfolio.md` | Prepare voice samples, transcripts, annotated transcripts, and annotation notes |
+| `templates/英文简历模板-AI-Tutor-Chinese.md` | 生成一页英文简历，突出中文能力、英文沟通、音频判断、转写标注能力 |
+| `templates/录音作品集模板-Audio-Portfolio.md` | 准备 voice samples、transcripts、annotated transcripts 和 annotation notes |
 
-## Who This Is For
+## 适合谁用
 
-This is useful if you are applying for roles that mention:
+如果你申请的岗位里出现这些关键词，这套模板可能有用：
 
 - Chinese AI Tutor
 - Chinese audio annotation
@@ -28,38 +28,43 @@ This is useful if you are applying for roles that mention:
 - annotated transcripts
 - multilingual AI training
 - language data quality evaluation
+- audio-related work
 
-## How To Use
+## 怎么用
 
-1. Open the resume template.
-2. Replace every `[PLACEHOLDER]` with your real information.
-3. Do not invent experience.
-4. Open the audio portfolio template.
-5. Record three short samples:
-   - Chinese read-aloud
-   - Chinese spontaneous speech
-   - English introduction
-6. Add plain transcripts and annotated transcripts.
-7. Export the portfolio as PDF or TXT.
-8. If the application form does not accept audio files, upload audio to Google Drive and paste links into the PDF/TXT portfolio.
+1. 打开英文简历模板。
+2. 把所有 `[PLACEHOLDER]` 换成自己的真实信息。
+3. 不要编经历。
+4. 打开录音作品集模板。
+5. 录三段短音频：
+   - 中文朗读
+   - 中文自然表达
+   - 英文自我介绍
+6. 每段音频都配：
+   - Recording Script：录音稿
+   - Plain Transcript：普通转写
+   - Annotated Transcript：标注转写
+   - Annotation Note：标注说明
+7. 导出成 PDF 或 TXT。
+8. 如果申请页面不支持上传音频，就把音频放到 Google Drive，再把链接写进 PDF/TXT。
 
-## Important Notes
+## 重要提醒
 
-- This is not a job guarantee.
-- Do not present salary information as a promise.
-- Do not package this as a "high-paying part-time job" shortcut.
-- The purpose is to help applicants prove language ability, audio judgment, transcript quality, and annotation reasoning.
+- 这不是入职保证。
+- 不要把薪资写成承诺。
+- 不要包装成“高薪兼职捷径”。
+- 重点是证明你的中文能力、英文沟通、音频判断、转写质量和标注解释能力。
 
-## Suggested Portfolio Structure
+## 推荐作品集结构
 
-For each audio sample, include:
+每段音频都建议包含 4 个部分：
 
-1. Recording script
-2. Plain transcript
-3. Annotated transcript
-4. Annotation note
+1. Recording Script
+2. Plain Transcript
+3. Annotated Transcript
+4. Annotation Note
 
-Suggested annotation labels:
+可用标注：
 
 - `[pause 0.3s]`
 - `[pause 0.4s]`
@@ -68,7 +73,7 @@ Suggested annotation labels:
 - `[background noise]`
 - `[unclear word]`
 
-## License
+## 许可证
 
-MIT License. You may reuse and adapt the templates.
+MIT License。可以自由复用和修改。
 

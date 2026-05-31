@@ -1,6 +1,8 @@
-# English Resume Template - AI Tutor / Chinese Audio Annotation Role
+# 英文简历模板：AI Tutor / 中文语音标注岗位
 
 > 使用方式：把所有 `[PLACEHOLDER]` 替换成自己的真实信息。不要编经历。这个模板适合申请中文 AI Tutor、中文语音标注、转写、语言质量评估、多语言 AI 训练类岗位。
+>
+> 注意：下面的简历正文故意保留英文，因为你最终要上传的是英文简历。中文说明只用于帮助你填写。
 
 ---
 
@@ -12,7 +14,7 @@ Email: [YOUR EMAIL] | Phone: [YOUR PHONE] | Location: [CITY, COUNTRY] / Remote
 
 [ROLE NAME], [COMPANY NAME]
 
-Example:
+示例：
 
 AI Tutor - Chinese, xAI
 
@@ -20,7 +22,7 @@ AI Tutor - Chinese, xAI
 
 [Your major or background] with native Chinese proficiency, [your English proof, such as CET-6 / IELTS / TOEFL / daily English work ability], and hands-on experience in [writing / translation / language analysis / audio transcription / AI tools / research / content workflows]. Strong fit for Chinese audio annotation and multilingual AI training work because of sensitivity to wording, context, tone, ambiguity, rhythm, and naturalness in Chinese.
 
-Example:
+示例：
 
 Chinese Language and Literature major with native Chinese proficiency, CET-6 English certification, and hands-on experience turning messy information, recordings, web content, and project requirements into structured documents, transcripts, and reusable workflows.
 
@@ -44,7 +46,7 @@ Chinese Language and Literature major with native Chinese proficiency, CET-6 Eng
 - [Describe how you checked quality: accuracy, tone, consistency, clarity, completeness, or human review.]
 - [Describe tools used: Codex, Claude, ChatGPT, Obsidian, Markdown, Google Docs, Excel, transcription software, etc.]
 
-Example:
+示例：
 
 - Converted raw notes, web content, recordings, and project requirements into structured Markdown documents, reports, scripts, and reusable workflows.
 - Reviewed AI-generated outputs for accuracy, clarity, tone, completeness, and usefulness before turning them into final documents.

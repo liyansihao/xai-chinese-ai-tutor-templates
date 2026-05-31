@@ -1,4 +1,4 @@
-# Audio Portfolio Template - Voice Samples + Transcripts + Annotated Transcripts
+# 录音作品集模板：Voice Samples + Transcripts + Annotated Transcripts
 
 > 使用方式：这是给中文 AI Tutor、中文语音标注、转写、语音数据评估岗位准备的录音作品集模板。核心不是“声音好听”，而是证明你能听懂、转写、标注、解释判断。
 
@@ -10,36 +10,38 @@ Target role: [ROLE NAME], [COMPANY NAME]
 
 Purpose: Demonstrate Mandarin speech clarity, English communication ability, transcript quality, annotation judgment, and attention to audio detail.
 
-## Recommended Recording Setup
+上面这三行建议保留英文，因为招聘方可能直接阅读你的作品集。
 
-- Find a quiet indoor room.
-- Use a phone, Mac microphone, or external microphone.
-- Keep the microphone close to your mouth, but do not touch it.
-- Record each sample separately.
-- Speak naturally. Do not overperform.
-- Do one short test recording before the final version.
-- Listen back and check: volume, noise, clipping, unclear words, long silence.
-- Export as `.mp3` or `.m4a`.
+## 录音准备
 
-## Suggested Files
+- 找一个安静的室内环境。
+- 用手机、Mac 麦克风或外接麦克风都可以。
+- 麦克风离嘴近一点，但不要贴嘴。
+- 每段音频单独录，不要录成一个长音频。
+- 自然说话，不要像播音腔，不要过度表演。
+- 正式录之前先录一段 5 秒测试。
+- 录完一定要回听，检查音量、噪音、爆音、口误、长时间空白。
+- 导出格式建议 `.mp3` 或 `.m4a`。
+
+## 推荐文件名
 
 - `[Your_Name]_01_Chinese_Read_Aloud.mp3`
 - `[Your_Name]_02_Chinese_Spontaneous_Speech.mp3`
 - `[Your_Name]_03_English_Introduction.mp3`
 - `[Your_Name]_Audio_Portfolio.pdf`
 
-## If The Application Form Does Not Accept Audio
+## 如果申请页面不支持上传音频
 
-Some job boards only accept `pdf`, `doc`, `docx`, `txt`, or `rtf`.
+有些招聘系统只接受 `pdf`、`doc`、`docx`、`txt`、`rtf`，不接受 `.mp3`、`.m4a`。
 
-Use this workaround:
+解决方式：
 
-1. Upload the audio files to Google Drive.
-2. Set sharing to “Anyone with the link can view”.
-3. Put the audio links inside this portfolio PDF or TXT file.
-4. Upload the PDF/TXT portfolio to the job form.
+1. 把音频上传到 Google Drive。
+2. 分享权限设置成“知道链接的人可以查看”。
+3. 把音频链接写进这个作品集 PDF 或 TXT。
+4. 申请页面上传 PDF/TXT，不直接传音频。
 
-## Google Drive Audio Links
+## Google Drive 音频链接
 
 - Audio 01: [PASTE GOOGLE DRIVE LINK]
 - Audio 02: [PASTE GOOGLE DRIVE LINK]
@@ -49,15 +51,15 @@ Use this workaround:
 
 ## Audio 01 - Chinese Read-Aloud
 
-Suggested length: 35-45 seconds
+建议长度：35-45 秒。
 
-Goal: prove Mandarin clarity, stable pronunciation, punctuation awareness, and ability to mark pauses and emphasis.
+目标：证明普通话清晰度、朗读稳定性、断句意识，以及你能标出停顿和重音。
 
 ### Recording Script
 
-[Paste a short Chinese passage here. Choose something with contrast, clear meaning, and natural pauses.]
+[这里放一段中文朗读稿。最好选有清晰观点、自然停顿、语义对比的短段落。]
 
-Example structure:
+推荐结构：
 
 第一句：提出一个观点。
 
@@ -67,13 +69,13 @@ Example structure:
 
 ### Plain Transcript
 
-[Write exactly what you said. Do not add words that were not spoken.]
+[逐字写下你录音里真实说出来的内容。不要补录音里没说的话。]
 
 ### Annotated Transcript
 
-[Use simple labels. Do not over-label every word.]
+[在普通转写基础上加简单标注。不要每个词都标，标关键停顿、重音和异常音频即可。]
 
-Recommended labels:
+推荐标注：
 
 - `[pause 0.3s]`
 - `[pause 0.4s]`
@@ -82,15 +84,13 @@ Recommended labels:
 - `[background noise]`
 - `[unclear word]`
 
-Example:
+示例：
 
 这不是一段普通录音，[pause 0.3s] 而是一份用来证明语言判断能力的作品集。[slight emphasis]
 
 ### Annotation Note
 
-Explain why you marked the pauses and emphasis.
-
-Template:
+用英文解释你为什么这样标注。示例：
 
 I marked short pauses where the sentence structure creates contrast or topic shifts. I marked slight emphasis on the key claim because it carries the main meaning of the sample. This shows attention to rhythm, contrast, and semantic focus in Mandarin speech.
 
@@ -98,15 +98,15 @@ I marked short pauses where the sentence structure creates contrast or topic shi
 
 ## Audio 02 - Chinese Spontaneous Speech
 
-Suggested length: 45-60 seconds
+建议长度：45-60 秒。
 
-Goal: prove natural spoken Chinese, real-time explanation ability, and judgment of informal speech.
+目标：证明自然中文口语、实时解释能力，以及你能处理口语化表达。
 
 ### Recording Script
 
-[Introduce yourself and explain a real project, study experience, work experience, or language/audio-related task.]
+[介绍你自己，并解释一个真实学习、项目、工作或语言相关经历。]
 
-Suggested structure:
+推荐结构：
 
 大家好，我是 [YOUR NAME]。
 
@@ -114,19 +114,19 @@ Suggested structure:
 
 我平时经常做的一件事是 [REAL WORK OR STUDY TASK]。
 
-这件事和中文语音标注很接近，因为 [EXPLAIN CONNECTION].
+这件事和中文语音标注很接近，因为 [EXPLAIN CONNECTION]。
 
-如果我参与 [ROLE / PROJECT], 我会特别关注准确性、一致性和可解释性。
+如果我参与 [ROLE / PROJECT]，我会特别关注准确性、一致性和可解释性。
 
 ### Plain Transcript
 
-[Write exactly what you said.]
+[逐字写下你录音里真实说出来的内容。]
 
 ### Annotated Transcript
 
-[Add pauses, emphasis, and any natural speech notes.]
+[加入停顿、重音、自然口语提示。]
 
-Example:
+示例：
 
 大家好，我是 [YOUR NAME]。[pause 0.4s] 我现在是 [YOUR IDENTITY]。
 
@@ -134,7 +134,7 @@ Example:
 
 ### Annotation Note
 
-Template:
+用英文解释。示例：
 
 This sample is designed to sound conversational rather than formal. I marked pauses around topic shifts and emphasis around the core annotation principle. This demonstrates judgment in natural spoken-language scenarios.
 
@@ -142,9 +142,9 @@ This sample is designed to sound conversational rather than formal. I marked pau
 
 ## Audio 03 - English Introduction
 
-Suggested length: 35-45 seconds
+建议长度：35-45 秒。
 
-Goal: prove that you can communicate basic identity, motivation, and annotation reasoning in English.
+目标：证明你能用英文做基本自我介绍、说明动机，并解释你对音频标注的理解。
 
 ### Recording Script
 
@@ -154,7 +154,7 @@ I am applying for the [ROLE NAME] role because I care about language quality, au
 
 ### Plain Transcript
 
-[Write exactly what you said.]
+[逐字写下你英文录音里真实说出来的内容。]
 
 ### Annotated Transcript
 
@@ -164,13 +164,15 @@ I am applying for the [ROLE NAME] role because I care about language quality, au
 
 ### Annotation Note
 
-Template:
+用英文解释。示例：
 
 This sample demonstrates English communication ability for a bilingual work environment. I marked pauses between identity, education, experience, and motivation. I marked emphasis on the broader definition of accuracy because it explains my understanding of high-quality audio data.
 
 ---
 
 ## Portfolio Methodology Statement
+
+这一段建议放在作品集末尾，说明你的标注方法。可以直接使用英文：
 
 For audio annotation, I focus on five dimensions:
 
@@ -184,12 +186,12 @@ My goal is to produce annotations that are accurate, explainable, and useful for
 
 ---
 
-## Final Checklist
+## 最终检查表
 
-- [ ] Three audio files are recorded separately.
-- [ ] Each audio is short and clear.
-- [ ] Each audio has a plain transcript.
-- [ ] Each audio has an annotated transcript.
-- [ ] Annotation notes explain the reason, not just the label.
-- [ ] Google Drive links are open to viewers.
-- [ ] The final upload file is PDF/TXT/DOCX if the job form does not accept audio.
+- [ ] 三段音频分别录制。
+- [ ] 每段音频都短、清晰、无明显噪音。
+- [ ] 每段音频都有 Plain Transcript。
+- [ ] 每段音频都有 Annotated Transcript。
+- [ ] Annotation Note 解释了为什么这样标注。
+- [ ] Google Drive 链接已设置为可查看。
+- [ ] 如果招聘系统不支持音频，最终上传 PDF/TXT/DOCX。
