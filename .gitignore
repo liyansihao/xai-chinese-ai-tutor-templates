@@ -1,0 +1,10 @@
+.DS_Store
+*.pdf
+*.docx
+*.m4a
+*.mp3
+*.wav
+*.zip
+personal/
+private/
+
